@@ -25,7 +25,7 @@
 <!-- Image definitions -->
 [catdog-image]: https://img.shields.io/badge/Group-CAT&DOG-red
 [catdog-url]: https://catdog.korea.ac.kr
-[project-ndm]: https://img.shields.io/badge/Project-Nexon%20Dream%20Makers-198c19
+[project-ndm]: https://img.shields.io/badge/Project-Nexon%20Dream%20Makers-00355f
 [language-c#]: https://img.shields.io/badge/Language-C%23-orange
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
 [platform-pc]: https://img.shields.io/badge/Platform-PC-yellowgreen
