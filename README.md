@@ -1,10 +1,13 @@
 # 시드 마이어의 문명 클론 코딩 및 확장: 공동 작업 결과물의 리팩토링본
 
-![language-c#][language-c#] ![library-unity][library-unity] ![platform-pc][platform-pc]
+![language-c#][language-c#]
+![library-unity][library-unity]
+![platform-pc][platform-pc]
 <br>
 ![participants-team][participants-team]
 <br>
-[![group-catdog][catdog-image]][catdog-url] ![project-ndm][project-ndm]
+[![group-catdog][catdog-image]][catdog-url]
+![project-ndm][project-ndm]
 
 > 그룹 프로젝트로 2018년에 시드 마이어의 문명을 클론 코딩하고 확장한 프로젝트의 리팩토링본입니다.
 
