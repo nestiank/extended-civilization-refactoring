@@ -1,4 +1,4 @@
-# 시드 마이어의 문명 클론 코딩 및 확장: 공동 작업 결과물의 리팩토링본
+# 시드 마이어의 문명 클론 코딩 및 확장
 
 ![language-c#][language-c#]
 ![library-unity][library-unity]
@@ -9,13 +9,16 @@
 [![group-catdog][catdog-image]][catdog-url]
 ![project-ndm][project-ndm]
 
-> 그룹 프로젝트로 2018년에 시드 마이어의 문명을 클론 코딩하고 확장한 프로젝트의 리팩토링본입니다.
+> 그룹 프로젝트로 2018년에 시드 마이어의 문명을 클론 코딩하고 확장했습니다.
 
-### 원본 프로젝트 및 저작자 정보
+### 프로젝트 저장소
 
   * [클라이언트](https://github.com/nestiank/extended-civilization-client-2018)
   * [모델](https://github.com/nestiank/extended-civilization-model-2018)
-  * 클라이언트와 모델 모두 소스의 저작자는 여러 명이고 해당 파트의 저작자 명단은 해당 저장소의 커밋 로그를 통해 확인하시기 바랍니다.
+
+### 프로젝트 참가자 정보
+
+프로젝트 참가자는 위의 두 저장소의 커밋 로그에서 확인하시기 바랍니다.
 
 ### 라이선스 및 공동체 수정
 
