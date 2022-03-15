@@ -13,8 +13,8 @@
 
 ### 프로젝트 저장소
 
-  * [클라이언트](https://github.com/nestiank/extended-civilization-client-2018)
-  * [모델](https://github.com/nestiank/extended-civilization-model-2018)
+  * [클라이언트](https://github.com/nestiank/extended-civilization-refactoring-client)
+  * [모델](https://github.com/nestiank/extended-civilization-refactoring-model)
 
 ### 프로젝트 참가자 정보
 
